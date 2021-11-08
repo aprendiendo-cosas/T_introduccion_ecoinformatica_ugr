@@ -29,4 +29,4 @@ Durante la sesión se sigue un hilo argumental flexible que suele modificarse en
     + ¿Quien tiene los datos tiene el poder?
     + Las herramientas no son tan importantes. Es más útil saber el fundamento de su funcionamiento.
 
-Para guiar esta primera sesión usamos una presentación de diapositivas que puede descargarse aquí. 
+Para guiar esta primera sesión usamos una presentación de diapositivas que puede descargarse [aquí](https://github.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/raw/2020-2021/presentacion/introduccion_ecoinformatica.pptx). 

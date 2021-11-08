@@ -1,8 +1,8 @@
 # Sesión introductoria a la asignatura: "Ecoinformática: ciclo de gestión del dato"
 
 
-> + **_Versión_**: 2020-2021
-> + **_Asignatura (titulación)_**: Ciclo de gestión del dato: ecoinformática (máster conservación, gestión y restauración de la biodiversidad. UGR). Curso 2020-2021
+> + **_Versión_**: 2021-2022
+> + **_Asignatura (titulación)_**: Ciclo de gestión del dato: ecoinformática (máster conservación, gestión y restauración de la biodiversidad. UGR). 
 > + **_Autores_**: Pedro Javier Magaña Redondo (pmagana@ugr.es), Carmen Quesada Ochoa (cquesada@ugr.es) Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas dos horas
 
@@ -29,4 +29,4 @@ Durante la sesión se sigue un hilo argumental flexible que suele modificarse en
     + ¿Quien tiene los datos tiene el poder?
     + Las herramientas no son tan importantes. Es más útil saber el fundamento de su funcionamiento.
 
-Para guiar esta primera sesión usamos una presentación de diapositivas que puede descargarse [aquí](https://github.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/raw/2020-2021/presentacion/introduccion_ecoinformatica.pptx). 
+Para guiar esta primera sesión usamos una presentación de diapositivas que puede descargarse [aquí](https://github.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/raw/2021-2022/presentacion/introduccion_ecoinformatica.pptx). 

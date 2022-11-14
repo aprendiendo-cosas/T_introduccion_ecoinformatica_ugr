@@ -1,9 +1,9 @@
 # Sesión introductoria a la asignatura: "Ecoinformática: ciclo de gestión del dato"
 
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**: 2022-2023
 > + **_Asignatura (titulación)_**: Ciclo de gestión del dato: ecoinformática (máster conservación, gestión y restauración de la biodiversidad. UGR). 
-> + **_Autores_**: Pedro Javier Magaña Redondo (pmagana@ugr.es), Carmen Quesada Ochoa (cquesada@ugr.es) Curro Bonet-García (fjbonet@uco.es)
+> + **_Autores_**: Pedro Javier Magaña Redondo (pmagana@ugr.es), Carmen Quesada Ochoa (cquesada@ugr.es), Antonio Jesús Pérez Luque (ajpelu@gmail.com), Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas dos horas
 
 
@@ -21,7 +21,7 @@ Durante la sesión se sigue un hilo argumental flexible que suele modificarse en
   + Transversalidad. Se trata de una asignatura que toca varias disciplinas científicas diferentes.
   + Elogio de la lentitud: Iremos lentos. Nos interesa que haya aprendizaje profundo y eso requiere ir despacio.
   + Diálogos: Nosotros (los profesores) también queremos aprender. Así que nos encantará escuchar vuestra visión de las cosas que abordamos en clase. 
-+ Presentación de los estudiantes. Comentamos juntos los resultados de una encuesta que facilitamos en forma de [este](https://docs.google.com/forms/d/e/1FAIpQLScdOOQ6OlzbbBg3nhXFK3OTXTZITY77AP8MlBA3HHbC-H2keA/viewform?usp=sf_link) formulario. 
++ Presentación de los estudiantes. Además, compartimos  [este](https://docs.google.com/forms/d/e/1FAIpQLSeOpsi4yKzEgjLV_ijobaes13KAHIGQwpPCm8C9fM_vsHMMyg/viewform?usp=sf_link) formulario con los estudiantes para que nos cuenten un poco más de sus motivaciones con relación a esta asignatura. 
 + Definiciones de ecoinformática.
   + Visión ortodoxa de la ecoinformática: La complejidad de los sitemas biológicos, el impacto del ser humano en los mismos y la enorme capacidad computacional de la que disponemos nos permite diseñar protocolos para gestionar los datos de manera coherente.
   + Visión heterodoxa:
@@ -29,4 +29,4 @@ Durante la sesión se sigue un hilo argumental flexible que suele modificarse en
     + ¿Quien tiene los datos tiene el poder?
     + Las herramientas no son tan importantes. Es más útil saber el fundamento de su funcionamiento.
 
-Para guiar esta primera sesión usamos una presentación de diapositivas que puede descargarse [aquí](https://github.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/raw/2021-2022/presentacion/introduccion_ecoinformatica.pptx). 
+Para guiar esta primera sesión usamos una presentación de diapositivas que puede descargarse [aquí](https://github.com/aprendiendo-cosas/T_introduccion_ecoinformatica_ugr/raw/2022-2023/presentacion/introduccion_ecoinformatica.pptx). 
